@@ -1,2 +1,4 @@
 # hello-world
-just another repositroy
+
+Hi Guys,
+it's me phil :)
